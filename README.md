@@ -87,7 +87,11 @@ The driver code for this project is available in the [repository](https://github
 
 ### Contributions
 This is a group project done for the SEMANTIC SPRINT hackthon ([TechnoVIT 2022](https://www.technovitchennai.com/)). This project has won the second price in that hackthon.
+
 Group members:
+
 AM Jhagan, VIT Chennai
+
 Jaya Surya S, VIT Chennai
+
 Ajay Rajkumar K, VIT Chennai
